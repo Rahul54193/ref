@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">Test</string>
+    <string name="app_name">SWI</string>
+    <string name="facebook_app_id">957893815463430</string>
+<!--    <string name="facebook_app_id">784026710037453</string>-->
+    <string name="fb_login_protocol_scheme">fb957893815463430</string>
+<!--    <string name="fb_login_protocol_scheme">fb784026710037453</string>-->
+    <string name="facebook_client_token">784bf314d87d8556da85a675cb7d3326</string>
+<!--    <string name="facebook_client_token">a668bc574e7b6e68197d37e1a2c53579</string>-->
 </resources>

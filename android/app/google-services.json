@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "866067850894",
+    "project_id": "swi-mobile-app-24552",
+    "storage_bucket": "swi-mobile-app-24552.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:866067850894:android:10934ea29a48e1d1d18bdf",
+        "android_client_info": {
+          "package_name": "com.swi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "866067850894-6ra6kvn51p3m8hq4n3gfu9i9ne3g8kcl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.swi",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "866067850894-l0lb6v5l2qrti1msvp3mmenml7kl8f3m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.swi",
+            "certificate_hash": "900465c71e7ac49b173467d742caaae4e224cebb"
+          }
+        },
+        {
+          "client_id": "866067850894-dh3ebggit9pfu0e4l957lejk9uc2qeg4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1iDMDUZyru4waNXeeUBNNwR2lTM2WAOg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "866067850894-dh3ebggit9pfu0e4l957lejk9uc2qeg4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "866067850894-51t0n05rkvqo7n6977n3eb96eh9u0m49.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.develop.SWI"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
