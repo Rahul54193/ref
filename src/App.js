@@ -43,7 +43,7 @@ const App = () => {
       if (receipt) {
         console.log(receipt, 'receipt------<<<<<');
         // yourAPI
-        //   .deliverOrDownloadFancyInAppPurchase(purchase.transactionReceipt)
+        //   .deliverOrDownloadFancyInAppPurchase(purchase.transactionReceipt))
         //   .then(async deliveryResult => {
         //     if (isSuccess(deliveryResult)) {
         //       // Tell the store that you have delivered what has been paid for.
